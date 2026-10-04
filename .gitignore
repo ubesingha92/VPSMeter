@@ -1,0 +1,5 @@
+# Ignore temporary benchmark files and static binaries
+ioping.static
+*.log
+vpsmeter_test_*
+test_*

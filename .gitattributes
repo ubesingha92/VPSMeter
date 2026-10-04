@@ -1,0 +1,5 @@
+# Ensure shell scripts, markdown, and text files always check out with Unix LF line endings
+* text=auto eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
